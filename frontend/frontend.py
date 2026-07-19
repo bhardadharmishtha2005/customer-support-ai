@@ -116,7 +116,7 @@ if user_query:
         with st.spinner("Invoking router routing maps..."):
             try:
                 response = requests.post(
-                    "http://127.0.0.1:8000/api/v1/chat",
+                    "https://customer-support-ai-cuij.onrender.com/api/v1/chat",
                     json={"message": user_query},
                     timeout=70
                 )
