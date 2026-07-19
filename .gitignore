@@ -1,0 +1,11 @@
+# 1. Ignore Python cache folders (removes all __pycache__ folders everywhere)
+**/__pycache__/
+*.pyc
+
+# 2. Ignore virtual environments (removes both 'venv' folders seen in your root/backend)
+venv/
+backend/venv/
+
+# 3. Ignore your secret environment variables (Crucial for security!)
+.env
+backend/.env

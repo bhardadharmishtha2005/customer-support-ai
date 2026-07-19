@@ -1,0 +1,10 @@
+TechMart Electronics Customer Policies
+
+1. REFUND POLICY:
+Customers can request a full refund within 30 days of purchase. The item must be in its original packaging. Serial numbers must match our sales records. Software items and gift cards are strictly non-refundable.
+
+2. SHIPPING POLICY:
+Standard delivery takes 3 to 5 business days. Express shipping takes 1 to 2 business days. Shipping is free for all orders above $50.
+
+3. ACCOUNT SUPPORT & LOGIN ERRORS:
+If a user encounters a "500 Server Error" or gets locked out of their profile, they must clear their browser cookies and cache, then attempt a password reset. If the lockout persists, the Technical Support team will manually reset the credentials within 2 hours.
